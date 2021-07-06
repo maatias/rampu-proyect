@@ -1,4 +1,8 @@
-# Ejercicio
+# Rampu Consultoria
+
+Pagina web para una empresa de consultaria. 
+
+Tecnologias utilizadas: Angular 11 y Bootstrap.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
 
